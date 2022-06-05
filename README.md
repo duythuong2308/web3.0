@@ -14,10 +14,12 @@ Project is created with:
 * Solidity
 
 
-##Front-End and Transactions
-*Front-End ![alt text](https://github.com/duythuong2308/web3.0/blob/main/web3.0/image/screen.png?raw=true)
+## Front-End and Transactions
+* Front-End 
+![alt text](https://github.com/duythuong2308/web3.0/blob/main/web3.0/image/screen.png?raw=true)
 
-*Transaction ![alt text](https://github.com/duythuong2308/web3.0/blob/main/web3.0/image/transactions.png?raw=true)
+* Transaction 
+![alt text](https://github.com/duythuong2308/web3.0/blob/main/web3.0/image/transactions.png?raw=true)
 
 
 
